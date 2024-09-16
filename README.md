@@ -1,3 +1,3 @@
 # Color app
 
-color change application
+color change application!
